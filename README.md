@@ -6,4 +6,4 @@ Preview
 
 # how-to-use
 
-settings -> pets -> custome pets
+settings -> pets -> custom pets
