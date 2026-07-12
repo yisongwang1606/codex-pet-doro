@@ -6,7 +6,7 @@ Preview for doro
 
 
 Preview for doropixel
-<img width="375" height="356" alt="image" src="https://github.com/user-attachments/assets/a4e13b60-a36b-426d-a1cf-86c368e65fb1" />
+<img width="255" height="249" alt="image" src="https://github.com/user-attachments/assets/a4e13b60-a36b-426d-a1cf-86c368e65fb1" />
 
 
 # how-to-use
